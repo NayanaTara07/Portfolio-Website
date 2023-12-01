@@ -47,7 +47,7 @@ nav ul li{
 nav ul li a{
     color: #fff;
     text-decoration: none;
-    front-size: 18px;
+    font-size: 18px;
     position: relative;
 }
 nav ul li a::after{
@@ -437,7 +437,10 @@ nav .fa-solid{
        font-size: 14px; 
     }
 
-
-
 }
 
+#msg{
+   color: #61b752; 
+   margin-top: -40px;
+   display: block;
+}
