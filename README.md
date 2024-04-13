@@ -1,6 +1,6 @@
 # Nayana's Portfolio
 
-This is the repository for [Nayana's personal portfolio website](https://nayanatara07.github.io/Portfolio-Website). The website showcases Nayana's skills, projects, and provides a way to contact her. Below is an overview of the website's structure and features.
+This is the repository for [Nayana's personal Portfolio Website](https://nayanatara07.github.io/Portfolio-Website). The website showcases Nayana's skills, projects, and provides a way to contact her. Below is an overview of the website's structure and features.
 
 ## Table of Contents
 
