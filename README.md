@@ -61,4 +61,4 @@ Nayana's personal portfolio is a web-based representation of her skills, experie
 
 ---
 
-Feel free to explore Nayana's portfolio [website](https://nayanatara07.github.io/Portfolio-Website) and get in touch with her for collaboration and opportunities. Thank you for visiting!
+Feel free to explore Nayana's portfolio [here](https://nayanatara07.github.io/Portfolio-Website) and get in touch with her for collaboration and opportunities. Thank you for visiting!
